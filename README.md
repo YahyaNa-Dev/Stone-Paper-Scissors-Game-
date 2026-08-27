@@ -14,7 +14,7 @@ A classic CLI-based Stone, Paper, Scissors game developed in C++, featuring cust
 
 ## 📸 Preview / معاينة التطبيق
 
-![Stone Paper Scissors Game Preview](Screen.png)
+![Stone Paper Scissors Game Preview](ptr.png)
 
 ---
 
