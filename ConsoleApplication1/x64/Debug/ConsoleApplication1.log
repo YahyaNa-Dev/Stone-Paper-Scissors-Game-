@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(551,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ConsoleApplication1.cpp
+C:\Users\Admin\Desktop\Stone&Paper&Scissors(Game )\ConsoleApplication1\ConsoleApplication1.cpp(101,1): warning C4715: 'WhoWonTheRound': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\Admin\Desktop\Stone&Paper&Scissors(Game )\x64\Debug\Stone&Paper&Scissors.exe
